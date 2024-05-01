@@ -26,7 +26,8 @@ There is never too much communication nor oversharing. I rather have you bring u
 
 "Over"-communication is a word you will hear from me a lot. Over the last decade, I have worked in small and large companies and there was always a common theme I noticed that will help succeed my teams; 
 
-### Data / Share Impact
+### Share Impact
+Especially for remote workforces, oversharing impact can't be ignored. I have seen this before, people assumed what they did is either not a big deal, or don't want to bother anybody and therefore don't share their work or impact. Most of the time, this impact is of interest to somebody, writing it into a channel, present it at an all-hands or weekly meeting is crucial to not only keep the conversations going but 
 
 
 ### Performance
@@ -72,7 +73,7 @@ I tend to schedule a personal OKR meeting each month to discuss career goals, so
 #### Team Meetings
 Equally important and similar to 1-1 meetings are team meetings. They can be scheduled weekly, bi-weekly or monthly pending on the size of my direct reports, the growth of the company and the maturity. The goal of these meetings is to form and build a high performanent team that can trust and support each other. This includes getting to know each other beyond work, team building activities and alignment on how to be successful. 
 
-#### No devices Meetings
+#### "No device" Meetings
 In general, I trust and believe people have good attention to stay connected to the topic of the meeting they are in. I also know though that things can distract us = slack and phones. I will ask you, at times, for specific meetings to not look at your other devices. It's for the broader good and it's respectful to give your co-workers or manager the attention and focus they deserve. Don't argue with me on that, if you are/get distracted, drop or don't join the meeting. 
 
 
@@ -107,34 +108,6 @@ Culture is defined as what happens when you are not in the room. The most import
 
 I ask you to please get to know, build, foster your relationship with your engineering and design counter part. This goes beyond "I told her about x", "we talked about y" - Building trust and the correct culture needs time and requires to truly get to know your team. Take the time, setup 1-1s, share feedback early.
 
-## Barbara’s general user manual**
-
-**What did you want to be when you grew up?**
-A medical doctor, the moment I fainted getting my blood taken, I decided to focus on computers, they don’t bleed!
-
-**What are your quirks? What are some things that people might misunderstand about you that you should clarify?**
-- I’ve heard several times in my life that I look too serious and upset. My normal facial expression can seem rude or not happy. That is however the COMPLETE opposite. So please don’t ever think Im upset when I look upset
-- While I consider myself happy to be around people and socialize, I need equal time to myself, so if I hide somewhere, it’s just that I need to recharge my batteries.
-- I sometimes take a bit longer to make decisions than others.
-
-**What qualities do you particularly value in people who work with you?**
-- Honesty, constructive feedback, I never feel offended if somebody provides me with feedback about my work. I actually seek this, and I find it’s quite challenging at times to read people’s minds - well, it never works!
-- Understanding and being understood (listen to understand) - It’s so important for me to show and try to put myself in other people's shoes, and really really hope the other person tries to do the same.
-- Humor: I love to laugh with my co-workers and team. Humor is such a big part of life for me, and if I feel we all don't always have to take ourselves too serious, it helps to let loose and be actually more creative, more risky and adventurous
-- Accoutnability :
-- Partnership / Empathy:
-
-**What’s the best way to communicate with you?**
-- I'm fine with pretty much all written communication, ideally indicating when I need to reply / if it’s urgent so I can better estimate my schedule (I do like to structure my day into pre-scheduled meetings). I like to take time to think and reply especially if it’s something I need to research or think about first. Pushing for a quick answer might make me uncomfortable.
-- Setting up an impromptu meeting, if not very important, might sometimes not be the best way to get my full attention since it might interrupt my schedule for the day or what I wanted to get done
-
-**What is your work schedule? (WFH, core hours, etc)**
-
-- I’m a ***very*** early bird and tend to work (i.e. check/reply Slack and emails) between 6am ET - 9am ET, then ideally, if no meetings are scheduled, I like to work-out every second day, and jump on my spin bike between 9-11am ET, or play tennis from 8am-9am ET once a week.
-
-**Any other miscellaneous thoughts on team dynamics or things you care about?**
-
-- I really want to feel myself at work, have great people around me and by being truly yourself, I will be very happy
 
 ## Product
 
