@@ -28,3 +28,12 @@ A medical doctor, the moment I fainted getting my blood taken, I decided to focu
 **Any other miscellaneous thoughts on team dynamics or things you care about?**
 
 - I really want to feel myself at work, have great people around me and by being truly yourself, I will be very happy
+
+## My Work Language + Personality Traits, Management Style
+
+Similar to love languages, I believe there are equally important work languages I react to, and get motivated by.
+Below you will find my results for several personality tests, pick yours you feel most connected to:
+
+- [MBTI](https://www.mbtionline.com/): Responsible realist / ISTJ
+- [Insights Discovery](https://www.insights.com/ca/products/insights-discovery/): [primary color Green, Blue](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/)
+- [Colors]

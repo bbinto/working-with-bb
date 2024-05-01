@@ -1,4 +1,4 @@
--- In process --
+# DRAFT
 
 # Barbara's Operating Model (BOM)
 
@@ -14,14 +14,12 @@ The following 3 pillars can be further broken down:
 - **People**: How I define people management, value indivualism, thrive for inclusion and diversity and psychological saftey
 - **Product**: My product management principles, the way I think, manage and learned what is important about good product manegement, including elaborating on my strengths and weakenesses
 
-## Process 
-
-### Norms & Principles
+## Processes, Norms & Principles
 
 In order to build psychological safety, team members must feel comfortable sharing any uncomfortable events and news without being punished not following the group norms. In order to identify these events, teams need to understand and align on expectations.
 Expecations are the basis to form and follow norms and principles. If we are all clear on expectations, we know what to commit to, how to build trust, and how/when to escalate concerns.
 
-#### (Over) Communication
+### (Over) Communication
 There is never too much communication nor oversharing. I rather have you bring up issues, concerns, information to be early than either too late or not at all, please consider the following; when in doubt, please do communicate.
 
 "Over"-communication is a word you will hear from me a lot. Over the last decade, I have worked in small and large companies and there was always a common theme I noticed that will help succeed my teams; 
@@ -29,8 +27,7 @@ There is never too much communication nor oversharing. I rather have you bring u
 ### Share Impact
 Especially for remote workforces, oversharing impact can't be ignored. I have seen this before, people assumed what they did is either not a big deal, or don't want to bother anybody and therefore don't share their work or impact. Most of the time, this impact is of interest to somebody, writing it into a channel, present it at an all-hands or weekly meeting is crucial to not only keep the conversations going but 
 
-
-### Performance
+As part of your individual and team performance, I will ask you to share your most impactful projects within each performance cycle, the more data related to OKRs and impact, the better.
 
 ### Context is King
 
@@ -65,6 +62,11 @@ Before our first official 1-1, feel free to review these questions[5](about:blan
 - What’s your favorite way to treat yourself?
 - What is something that will surprise me about you?
 
+### User Manuals
+In addition, I will ask you to write up your own personal user manual and share it with me/accessible to all within the company.
+
+Here is mine: [[[LINK]]]
+
 #### 1:1 Meetings
 My goal is to almost never skip 1-1s, if I do, I normally explain and provide context and at least try to re-schedule. The 1-1 is for you, about you! Please use the prepared questions and or notes to list out any topics you want to discuss. 
 
@@ -93,27 +95,26 @@ Like anybody else, well, any normal human being, I have days, times and moments 
 
 Emotional Intelligence AND vulernability belong under the great leadership definition; With that comes times where I will share and feel I don't have all the answers and will admit; because if you wonder, I do also know and feel the [Imposter Syndrome](https://drive.google.com/file/d/1pSfKUC2fhCmEzQ_mX9kdyHUmZi6xoQuh/view?usp=sharing) from time to time.
 
-
-## My Work Language + Personality Traits, Management Style
-
-Similar to love languages, I believe there are equally important work languages I react to, and get motivated by.
-Below you will find my results for several personality tests, pick yours you feel most connected to:
-
-- [MBTI](https://www.mbtionline.com/): Responsible realist / ISTJ
-- [Insights Discovery](https://www.insights.com/ca/products/insights-discovery/): [primary color Green, Blue](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/)
-- [Colors]
-
 ### Relationship with Engineering & Design
 Culture is defined as what happens when you are not in the room. The most important and unfortunately sometimes not recgonized and valued enough is your relationship with engineering. Design and product, in my experience work easier together. 
 
 I ask you to please get to know, build, foster your relationship with your engineering and design counter part. This goes beyond "I told her about x", "we talked about y" - Building trust and the correct culture needs time and requires to truly get to know your team. Take the time, setup 1-1s, share feedback early.
 
+### Performance
+
+I normally go by leveling documents, and try to assess your skills in the first 1-2 months working together, this will all be transparently shared and discussed with you. I will share the spreadsheet with you in one of our 1-1s.
+
+I have a note I use to jot down opportunities, wins, impact etc, screenshots, emails etc. during each performance cycle. I encourage you to do the same for yourselve so you can share with me if I missed anything.
+
+I'm here to help you, and lead you to the role/goals you have, let's work together, openly to get you there.
+My goal is to make my feedback always be fair, and empathic. I like to use the SMB [[LINK]] framework to provide and support my evaluation of your performance.
 
 ## Product
 
 ## Data
 
 ## Involvement
+
 
 ---
 
