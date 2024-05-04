@@ -37,3 +37,7 @@ Below you will find my results for several personality tests, pick yours you fee
 - [MBTI](https://www.mbtionline.com/): Responsible realist / ISTJ
 - [Insights Discovery](https://www.insights.com/ca/products/insights-discovery/): [primary color Green, Blue](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/)
 - [Colors]
+
+
+// TO DO!!!!
+[[Use/copy TeMPLate]]
