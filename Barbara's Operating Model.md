@@ -5,39 +5,39 @@
 The following list and notes aim to share with the reader how/why/when I operate as a product leader. It's like my own Operating System. It helps you understand what I consider good work, being efficient, providing safety and continous and honest feedback.
 
 **Foundation: Psychological Safety (PS)***: 
-Basis for all my actions, drivers and asks is "Psychological Safety". Many have defined and explained it, most notable as one of the key outcomes during the Aristotle (https://rework.withgoogle.com/print/guides/5721312655835136/) research done by Google, yet the best definition I have heard is PS is the feeling is safe to feel uncomfortable. 
+Basis for all my actions, drivers and asks is "Psychological Safety". Mostly known as one of the key outcomes during the [Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) research done by Google, PS is the feeling is safe to feel uncomfortable. 
 
-On top of above foundation, I like to breakdown my leadership into the following 3 pillars that are distributed based on the business needs:
+On top of above foundation, I like to breakdown my leadership into the following 3 pillars that are either equally or not propertional, based on the business needs, distributed:
 
-1. **Process**: Process is important, pending the size and growth stage the company is in, process and operations needs to be tigher than for e.g. smaller companies
+1. **Process**: Process is important, pending the size and specific growth stage the company is in, process and operations need to be tigher than for e.g. smaller companies.
 2. **People**: How I define people management, value indivualism, thrive for inclusion and diversity and psychological saftey
-3. **Product**: My product management principles, the way I think, manage and learned what is important about good product manegement, including elaborating on my strengths and weakenesses
+3. **Product**: My product management principles, the way I think, manage and have learned what is important about good product manegement. Some frameworks I like to follow or have adopted and/or changed according to my needs.  
 
 ### 1. Process (including Norms & Principles)
 In order to build on top of psychological safety, team members must feel comfortable sharing any uncomfortable events and news without being punished not following the group norms. In order to identify these events, teams need to understand and align on expectations.
-Expecations are the basis to form and follow norms and principles. If we are all clear on expectations, we know what to commit to, how to build trust, and how/when to escalate concerns. The team, collectively will come up with norms and principles that each commits to adhere to.
+Expecations are the basis to form and follow norms and principles. If we are all clear on expectations, we know what to commit to, how to build trust, and how/when to escalate concerns. The team, collectively will come up with norms and principles that each commits to adhere to. I speciacially will remind my team constantly on what I expect so the individual understands what good performance looks like.
 
 #### Timely (Over) Communication
-There is never too much communication nor oversharing. Ideally provide a tl;dr and a thread/link to more context if needed.
+There is never too much communication nor oversharing, period! It's the way when and how it's written; ideally provide a tl;dr and a thread/link to more context if needed.
 
-As for timely, I rather have you bring up issues, concerns, information ealier than later and worst, not at all, therefore, please consider the following; when in doubt, please do communicate.
+As for timely, I rather have you bring up issues, concerns, information ealier than later and worst, not at all, therefore, please consider the following; when in doubt, please communicate.
 
-"Over"-communication is a word you will hear from me a lot. 
+FYI; "Over"-communication is a word you will hear from me a lot. 
 
 Specially for async comms via channels like Slack/Teams, I want you to follow the below considerations
 - Remember, attention is a commodity, choose wisely if/when to tag a team or person
-- Always be polite and assume positive intend; we all have cultural differences, ways of communicating AND receiving feedback. Research has shown that politness async, in writing is even more important than verbal politeness.
+- Always be polite and assume positive intend; we all come with cultural differences, ways of communicating AND receiving feedback; e.g research has shown that politness async, in writing is even more important than verbal politeness.
 
 #### Share Impact
-Especially for remote workforces, continous sharing of impact can't be ignored. I have seen this before, people assumed what they did is either not a big deal, or don't want to bother anybody with it, and therefore don't share their work or impact. Most of the time, this impact is of interest to somebody, writing it into a channel, present it at an all-hands or weekly meeting is crucial to not only keep the conversations going but also share what you have worked on. 
+Especially for remote workforces, continous sharing of impact needs to happen, consistently and constantly. I have seen the following plenty of times; people assume what they did is either not a big deal, or they don't want to bother anybody with it, and therefore don't share their work or impact. Most of the time, this impact is of interest to at least one person/team, writing it into a channel, present it at an all-hands or weekly meeting is crucial to not only keep the conversations going but also share what you have worked on. 
 
 As part of your individual and team performance, I will ask you to share your most impactful projects within each performance cycle, the more data related to OKRs and impact, the better.
 
-#### Context is King
+#### To you: Context is King
 Phrased as "lead with context and not control" by Reed Hastings in [No rules rules](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention), providing context to your team is key in building trust and motivating team members. This is especially important when you have not only ICs but also managers and several levels of managers below you.
 
-#### Special Section: Executives
-I've noticed over the years that it's difficult at times for more junior people and ICs to know what to share and what not to share with executives. Of course, that depends not only on the person but also the executive. 
+#### To Executives: Be brief and clear
+I've noticed over the years that it's difficult at times for more junior people and ICs to know how and what to share and what not to share with executives. Of course, that depends not only on the person but also the executive. 
 The biggest rule of thumb is; you can share all the problems with them/me, but please be prepared to follow up with options/solutions immediately without being asked specifcially. That shows you are concious of the executives time and know how to make sure they leave the conversation hopeful and trustful in you.
 
 Be super aware of how to not overload your exectuive with information. They [hear](https://blog.staysaasy.com/p/dont-bring-me-problems-bring-me-solutions?utm_source=pocket_reader), see, respond to many small and big fires, help them understand quickly what is at stakes: Apply the [billboard](https://www.linkedin.com/feed/update/urn:li:activity:7162791135776632832/) test, what can you say in the fewest amount of words to get people to stay attentive?
@@ -47,21 +47,8 @@ Be super aware of how to not overload your exectuive with information. They [hea
 
 The goal of our first 1-1 is to get to know you, give you space and time to ask questions and most importantly leave you energized and motivated to start working together.
 
-Before our first official 1-1, feel free to review these questions[5](about:blank#fn5) as we will be going through them together in the next few 1-1s. I strongly believe by having your answers to these questions, I will be able to support you the best.
-
-- What makes you unhappy?
-- How will I know when you’re unhappy?
-- How can I help you when you’re unhappy?
-- In what medium (Slack, email, Zoom, etc.) do you prefer to receive feedback?
-- When do you prefer to receive feedback—routinely in 1:1s, or as-it-happens?
-- How do you prefer to receive recognition—publicly or privately?
-- What makes 1:1s the most valuable for you?
-- What are your career goals for next year? And for the next three months?
-- What do you need from your manager?
-- What do you need from your teammates?
-- What do you need from your peers outside the team?
-- What’s your favorite way to treat yourself?
-- What is something that will surprise me about you?
+I will share a set of question prior to get to know you, your ambitions, how to receive feedback et. 
+See link [here](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=1897604316).
 
 ##### User Manuals
 In addition, I will ask you to write up your own personal user manual and share it with me/accessible to all within the company.
@@ -73,6 +60,8 @@ Here is mine: [[[LINK]]]
 My goal is to almost never skip 1-1s, if I do, I normally explain and provide context and at least try to re-schedule. The 1-1 is for you, about you! Please use the prepared questions and or notes to list out any topics you want to discuss. 
 
 I tend to schedule a personal OKR meeting each month to discuss career goals, so we both keep chatting about growth, and opportunities and don't get distracted by daily topics.
+
+In addition, a [project tracker](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=909536391) is useful to keep both of us aligned on the work you are doing, keep it updated and we only have to chat about it if needed/required. 
 
 #### Team Meetings
 Equally important and similar to 1-1 meetings are team meetings. They can be scheduled weekly, bi-weekly or monthly pending on the size of my direct reports, the growth of the company and the maturity. The goal of these meetings is to form and build a high performanent team that can trust and support each other. This includes getting to know each other beyond work, team building activities and alignment on how to be successful. 
@@ -96,21 +85,20 @@ Emotional Intelligence AND vulernability belong under the great leadership defin
 #### What I will ask of you
 What I would like to ask from you is that you (aspire to) show up with these 3 important traits (and I’ll do the same): **self-awareness**[2](about:blank#fn2)**, reliability**[3](about:blank#fn3)**, and accountability**[4](about:blank#fn4).
 
-#### Relationship with Engineering & Design (, and others)
+#### Others: Relationship with Engineering & Design (, and others)
 Culture is defined as what happens when you are not in the room. The most important and unfortunately sometimes not recgonized and valued enough is your relationship with engineering. Design and product, in my experience work easier together. 
 
 I ask you to please get to know, build, foster your relationship with your engineering and design counter part. This goes beyond "I told her about x", "we talked about y" - Building trust and the correct culture needs time and requires to truly get to know your team. Take the time, setup 1-1s, share feedback early.
 
-* Roles & Responsiblity matrix [LINK]
+You can use [this](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=2005876786) template to start writing and assigning responsobilites. 
 
 #### Performance
+I prefer to use leveling documents, approved by management, and try to assess your skills in the first 1-2 months working together, this will all be transparently shared and discussed with you. I will share the spreadsheet with you in one of our 1-1s.
 
-I prefer to use leveling documents, and try to assess your skills in the first 1-2 months working together, this will all be transparently shared and discussed with you. I will share the spreadsheet with you in one of our 1-1s.
+I have a notepad I use to jot down opportunities, wins, impact etc, screenshots, emails etc. during each performance cycle. I encourage you to do the same for yourself so you can share with me if I missed anything.
 
-I have a notepad I use to jot down opportunities, wins, impact etc, screenshots, emails etc. during each performance cycle. I encourage you to do the same for yourselve so you can share with me if I missed anything.
-
-I'm here to help you, and lead you to the role/goals you have, let's work together, openly to get you there.
-My goal is to make my feedback always be fair, and empathic. I like to use the [SBI](https://fellow.app/blog/feedback/sbi-feedback-model/) framework to provide and support my evaluation of your performance.
+Please remember; I'm here to help you, and lead you to the role/goals you have, let's work together, openly to get you there. My goal is to make my feedback always be fair, and empathic. I like to use the [SBI](https://fellow.app/blog/feedback/sbi-feedback-model/) framework to provide and support my evaluation of your performance.
+In addition, please also understand and remember that I'm hired by the business to make the company successful by building and fostering the right people for the job. My job is to bring out the best of you, for youself AND the business.
 
 ## 3. Product
 
