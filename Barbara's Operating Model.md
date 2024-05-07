@@ -1,4 +1,4 @@
-# Barbara's Operating System (BOS)
+# Barbara's Operating System (BOS) v1.0
 
 The following list and notes aim to share with the reader how/why/when I operate as a product leader. It's like my own Operating System. It helps you understand what I consider good work, being efficient, providing safety and continous and honest feedback.
 
@@ -57,8 +57,6 @@ Both documents are great ways to describe yourself, let others know about your o
 * Barbara's User [manual](https://github.com/bbinto/working-with-bb/blob/main/Barbara's%20User%20Manual.md)
 * User Manual [template](https://github.com/bbinto/working-with-bb/blob/main/Templae%20%5BName%5D%20-%20User%20Manual.md)
 
-Here is mine: [[[LINK]]]
-[Template / Deck](https://docs.google.com/presentation/d/19ScYsmCkc5wcxO1mNtk71FCGL9bNRIjWdhLiIzgr4kY/edit#slide=id.g103d0abe527_0_282)
 
 #### 1:1 Meetings
 My goal is to almost never skip 1-1s, if I do, I normally explain and provide context and at least try to re-schedule. The 1-1 is for you, about you! Please use the prepared questions and or notes to list out any topics you want to discuss. 
@@ -97,10 +95,10 @@ Culture is defined as what happens when you are not in the room. The most import
 
 I ask you to please get to know, build, foster your relationship with your engineering and design counter part. This goes beyond "I told her about x", "we talked about y" - Building trust and the correct culture needs time and requires to truly get to know your team. Take the time, setup 1-1s, share feedback early.
 
-You can use [this](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=2005876786) template to start writing and assigning responsobilites. 
+You can use [this](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=2005876786) template to start writing and assigning responsibilities. 
 
 ### Performance
-I prefer to use leveling documents, approved by management, and try to assess your skills in the first 1-2 months working together, this will all be transparently shared and discussed with you. I will share the spreadsheet with you in one of our 1-1s.
+I prefer to use leveling [documents](https://docs.google.com/document/d/1q3dh94ityugEbRZIbJLJweH8cToplu7w/edit?usp=drive_link&ouid=106870703922353692262&rtpof=true&sd=true), approved by management, and try to assess your [skills](https://docs.google.com/spreadsheets/d/1W6hFhwNJhLsJPesPEkgIrHQDcD3XIjyD/edit#gid=134571841) in the first 1-2 months working together, this will all be transparently shared and discussed with you. I will share the spreadsheet with you in one of our 1-1s.
 
 I have a notepad I use to jot down opportunities, wins, impact etc, screenshots, emails etc. during each performance cycle. I encourage you to do the same for yourself so you can share with me if I missed anything.
 
@@ -120,14 +118,29 @@ Strategy is highly correalted and measured by quarterly and yearly OKRs for me. 
 
 ### Project & Product Documents
 
+Let's be clear, every company wants/can/ will do specific artifacts differently. Here some templates that helped me before. Check out these great resources to pick and choose what works best for you:
+* Reforge
+* Coda resources
+
+It's important to understand the phases of a project. Having the right stakeholders with the right and enough amount of information in a kick off is crucial.
+
 BEFORE KICK-OFF
 
-* Project Alignment Document (PAD), template [here](https://docs.google.com/document/d/1qfP3-mXilJ_TmUf3B654DdrNfgnZh2P1/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true)
+* Project Alignment Document (PAD), template [here](https://docs.google.com/document/d/1qfP3-mXilJ_TmUf3B654DdrNfgnZh2P1/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true), can be used for product reviews, concise to avoid going down too deep. 
 
 KICK-OFF
+* PAD can be used, extended to get the team excited, aligned and motivated. You can use a deck as a kick-off document.
 
 After Delivery
-Feature Review meeting/deck [here](https://docs.google.com/presentation/d/11FtrCSee-qabQoSqItSitpl-pagK37on/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true)
+This is extremely important to me and isn't been done often, make sure to review the launched product/feature and iterate/learn from it.
+
+* Feature Review meeting/deck [here](https://docs.google.com/presentation/d/11FtrCSee-qabQoSqItSitpl-pagK37on/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true)
+
+### Commonly used and trusted Prio Frameworks
+
+- SaaS: People want products and services that will help them get a job done better and/or more cheaply, more important they seek out products and services that enable them to get the entire job done on a single platform.
+- RICE
+- [RICE](https://docs.google.com/spreadsheets/d/17_PnuXIKeUv2FDk2l-GaBv07d9bmG6FV/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true) for bugs
 
 ### Planning
 
@@ -139,7 +152,7 @@ The following artifacts, frameworks and operations are preferred by me when runn
 
 Prioritization
 
-* $60 chat
+* [$40 Prio exercise](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=1559938549)
 * See more under next item: Inputs
 
 ### Data & Impact, Input
@@ -159,20 +172,12 @@ I will ask you/data team to provide them for each quarter, they will be input fo
 * Template to share the why/how/when
 
 
-### Commonly used and trusted Prio Frameworks
 
-- SaaS: People want products and services that will help them get a job done better and/or more cheaply, more important they seek out products and services that enable them to get the entire job done on a single platform.
-- RICE
-- [RICE](https://docs.google.com/spreadsheets/d/17_PnuXIKeUv2FDk2l-GaBv07d9bmG6FV/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true) for bugs
 
 ### Motivation
 * What needs to be changed
 * How can we do things better?
 
-
 ### Customers
 * Record, share and run weekly customer calls
 * Align your persona and segments with your x-teams
-
-### Hands-off/Hands-on/Involvement
-
