@@ -108,6 +108,10 @@ In addition, please also understand and remember that I'm hired by the business 
 
 I love working in the SaaS / B2B product space. To me, it's the best value exchange you can ask for between a company and customers; People seek solutions that will help them get a task done better and/or more cheaply, and with companies looking for compount strategies, customers know now that they can look and ask for products and services that enable them to get the entire job done on a single platform. They will want to pay for this while providing valuable and continous feedback.
 
+### Strategy - my version
+
+![Strategy version](https://drive.google.com/file/d/1rA_JEUsxb9U8iUcIMdCp47DV-lH72poP/view?usp=sharing "Strategy")
+
 ### Execution and Strategy
 While I know and believe a good strategy is an important path to keep everyone focused and in one common direction, what I have learned is that people love to advice how/what to do so solve a problem but not all can and want to actually DO what they say, meaning the willingness and motiviation to execute is at times way more important. In case you want a former US president to further eloaborate on this, have a quick look at this [video](https://www.linkedin.com/posts/barbarabermes_when-former-us-president-barack-obama-was-activity-7079049160699613186-hFOQ?utm_source=share&utm_medium=member_desktop) from Obama.
  
