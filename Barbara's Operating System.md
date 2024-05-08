@@ -51,8 +51,8 @@ In addition, I will ask you to write up your own personal user manual and share 
 
 Both documents are great ways to describe yourself, let others know about your operating model and your background and history. 
 
-* About me template [deck](https://docs.google.com/presentation/d/19ScYsmCkc5wcxO1mNtk71FCGL9bNRIjWdhLiIzgr4kY/edit?usp=sharing)
-* Barbara's User [manual](https://docs.google.com/document/d/1R7IOSealLuPcTZYxdFSfbHLs0CBHH-P8s3ddftgq5M0/edit?usp=drive_link) (protected)
+* About me [deck](https://docs.google.com/presentation/d/19ScYsmCkc5wcxO1mNtk71FCGL9bNRIjWdhLiIzgr4kY/edit?usp=drive_link) (will be made available to my team, otherwise protected)
+* Barbara's User [manual](https://docs.google.com/document/d/1R7IOSealLuPcTZYxdFSfbHLs0CBHH-P8s3ddftgq5M0/edit?usp=drive_link) (will be made available to my team, otherwise protected)
 * User Manual [template](https://github.com/bbinto/working-with-bb/blob/main/templates/Templae%20%5BName%5D%20-%20User%20Manual.md)
 
 
@@ -61,7 +61,7 @@ My goal is to almost never skip 1-1s, if I do, I normally explain and provide co
 
 I tend to schedule a personal OKR/growth meeting each month to discuss career goals, so we both keep chatting about growth, and opportunities and don't get distracted by daily topics.
 
-In addition, a [question/project tracker](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=909536391) is useful to keep both of us aligned on the work you are doing, keep it updated and we only have to chat about it if needed/required. 
+In addition, a [status/project tracker](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=909536391) is useful to keep both of us aligned on the work you are doing, keep it updated and we only have to chat about it if needed/required. 
 
 #### Team Meetings
 Equally important to 1-1 meetings are my team meetings. They can be scheduled weekly, bi-weekly or monthly pending on the size of my direct reports, the growth of the company and the maturity. The goal of these meetings is to form and build a high performanent team that can trust and support each other. This includes getting to know each other beyond work, team building activities, alignment on how to be successful, sharing of failures and wins so everyone can help and learn. 
@@ -101,7 +101,7 @@ I ask you to please get to know, build, foster your relationship with your engin
 You can use [this](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=2005876786) template to start writing and assigning responsibilities. 
 
 ### Performance
-I prefer to use leveling [documents](https://docs.google.com/document/d/1q3dh94ityugEbRZIbJLJweH8cToplu7w/edit?usp=drive_link&ouid=106870703922353692262&rtpof=true&sd=true), approved by company's leaders & HR (important), and try to assess your [skills](https://docs.google.com/spreadsheets/d/1W6hFhwNJhLsJPesPEkgIrHQDcD3XIjyD/edit#gid=134571841) in the first 1-2 months working together, this will all be transparently shared and discussed with you. I will share the spreadsheet with you in one of our 1-1s - this will be based on the [PMFlyWheel](https://www.strongproductpeople.com/pmwheel).
+To avoid any bias and support equality, I mandate to use career ladders/leveling [documents](https://docs.google.com/document/d/1q3dh94ityugEbRZIbJLJweH8cToplu7w/edit?usp=drive_link&ouid=106870703922353692262&rtpof=true&sd=true), approved by company's leaders & HR (important), and try to assess your [skills](https://docs.google.com/spreadsheets/d/1W6hFhwNJhLsJPesPEkgIrHQDcD3XIjyD/edit#gid=134571841) in the first 1-2 months working together, this will all be transparently shared and discussed with you. I will share the spreadsheet with you in one of our 1-1s - this will be based on the [PMFlyWheel](https://www.strongproductpeople.com/pmwheel).
 
 In order to not suffer from receny bias when performance cycles come around, I record important conversations, achievements, feedback from others, opportunies in a document for each of my team members. This will be the base for our convo at the end of a performance cycle. It will help me work with you on your  growth, promotion or anything else you and I have agreed to work towards to. I encourage you to do the same for yourself so you can share with me if I missed anything.
 
