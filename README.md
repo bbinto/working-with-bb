@@ -4,8 +4,8 @@ This repo is all about my learnings, wishes and aspiration to be a good product 
 
 Feel free to copy, re-use and even add additional learnings and findings via pull-requests.
 
-* Barbara's Operating System
-* Templates (including link to Google folder)
+* [Barbara's Operating System](https://github.com/bbinto/working-with-bb/blob/main/Barbara's%20Operating%20System.md)
+* [Templates](https://github.com/bbinto/working-with-bb/tree/main/templates) (including link to Google folder)
 
 
 
