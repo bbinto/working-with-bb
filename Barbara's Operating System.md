@@ -3,13 +3,13 @@
 The following list and notes aim to share with the reader how/why/when I operate as a product leader. It's like my own Operating System. It helps you understand what I consider good work, being efficient, providing safety and continous and honest feedback.
 
 **Foundation: Psychological Safety (PS)***: 
-Basis for all my actions, drivers and asks is ["Psychological Safety"](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) research done by Google, PS is the feeling is safe to feel uncomfortable. 
+Basis for all my actions, drivers and asks is ["Psychological Safety"](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) research done by Google of what is needed to build performanent teams, Psychological Safety means to be safe to feel uncomfortable. 
 
 On top of above foundation, I like to breakdown my leadership into the following 3 pillars that are either equally or not propertional, based on the business needs, distributed:
 
-1. **Process**: Process is important, pending the size and specific growth stage the company is in, process and operations need to be tigher than for e.g. smaller companies.
-2. **People**: How I define people management, value indivualism, thrive for inclusion and diversity and psychological saftey
-3. **Product**: My product management principles, the way I think, manage and have learned what is important about good product manegement. Some frameworks I like to follow or have adopted and/or changed according to my needs.  
+1. **Process**: Process, norms and even rules are important, pending the size and specific growth stage the company is in, process and operations need to be tigher than for e.g. smaller companies.
+2. **People**: How I define people management, value indivualism, thrive for inclusion and diversity and psychological saftey.
+3. **Product**: My product management principles, the way I think, manage and have learned what is important about good product manegement, inluding some frameworks I like to follow or have adopted and/or changed according to my needs.  
 
 ## 1. Process (including Norms & Principles)
 In order to build on top of psychological safety, team members must feel comfortable sharing any uncomfortable events and news without being punished not following the group norms. In order to identify these events, teams need to understand and align on expectations.
@@ -89,7 +89,7 @@ What I would like to ask from you is that you (aspire to) show up with these 3 i
 * **Reliability**: You do what you say you’ll do. At work, this means staying aware of your competencies and limitations so you don’t over promise and are able to deliver on commitments and balance competing priorities (Brene Brown)
 * **Accountability**: You own your mistakes, apologize, and make amends (Brene Brown).
 
-### Others: Relationship with Engineering & Design (, and others)
+### Others: Relationship with Engineering & Design
 Culture is defined as what happens when you are not in the room. The most important and unfortunately sometimes not recgonized and valued enough is your relationship with engineering. Design and product, in my experience work easier together. 
 
 I ask you to please get to know, build, foster your relationship with your engineering and design counter part. This goes beyond "I told her about x", "we talked about y" - Building trust and the correct culture needs time and requires to truly get to know your team. Take the time, setup 1-1s, share feedback early.
@@ -106,11 +106,12 @@ In addition, please also understand and remember that I'm hired by the business 
 
 ## 3. Product
 
-I love working in the SaaS / B2B product space. To me, it's the best value exchange you can ask for between a company and customers; People seek solutions that will help them get a task done better and/or more cheaply, and with companies looking for compount strategies, customers know now that they can look and ask for products and services that enable them to get the entire job done on a single platform. They will want to pay for this while providing valuable and continous feedback.
+I prefer working in the SaaS / B2B product space. To me, it's the best value exchange you can ask for between a company and customers; People seek solutions that will help them get a task done better and/or more cheaply, and with companies looking for compount strategies, customers know now that they can look and ask for products and services that enable them to get the entire job done on a single platform. They will want to pay for this while providing valuable and continous feedback.
 
 ### Strategy - my version
+Below is a screenshot of a slide I like to use to alig teams on how to think and work through strategy. The word strategy can be so dry, theorictal and a catch word for so many not clear directions. I've tried to build on top of a definition I once read and use a little framework to break it down into actionable pieces.
 
-![Strategy version](https://github.com/bbinto/working-with-bb/blob/main/img/strategy-breakdown.png)
+![](https://github.com/bbinto/working-with-bb/blob/main/img/strategy-breakdown.png)
 
 ### Execution and Strategy
 While I know and believe a good strategy is an important path to keep everyone focused and in one common direction, what I have learned is that people love to advice how/what to do so solve a problem but not all can and want to actually DO what they say, meaning the willingness and motiviation to execute is at times way more important. In case you want a former US president to further eloaborate on this, have a quick look at this [video](https://www.linkedin.com/posts/barbarabermes_when-former-us-president-barack-obama-was-activity-7079049160699613186-hFOQ?utm_source=share&utm_medium=member_desktop) from Obama.
@@ -150,3 +151,9 @@ The following artifacts, frameworks and operations all are preferred by me when 
     * [$40 Prio exercise](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=1559938549)
     * Don't forget about bugs, tech debt etc; please make sure to allocated time, and if needed, use the sheet to prioritize ruthlesly [RICE](https://docs.google.com/spreadsheets/d/17_PnuXIKeUv2FDk2l-GaBv07d9bmG6FV/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true) for bugs
     * Throuhout the quarter/year, I ask you to be pro-active and show motivation for your product area, I invite you to constantly ask yourself; what needs to be changed, can be done better? How can we do things better?
+
+## Closing
+
+This is an ambitious, ever evolving document, rather snapshot, of how I like to work as a leader, empowering teams to build the best products while being the most motivated possible with the most empathic and honest relationships amongst their peers.
+
+If you have read until now, I assume you are interested in working with me, or collaborating or giving me feedback on above. I'm excited for any comment.
