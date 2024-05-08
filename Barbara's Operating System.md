@@ -3,7 +3,7 @@
 The following list and notes aim to share with the reader how/why/when I operate as a product leader. It's like my own Operating System. It helps you understand what I consider good work, being efficient, providing safety and continous and honest feedback.
 
 **Foundation: Psychological Safety (PS)***: 
-Basis for all my actions, drivers and asks is ["Psychological Safety"](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/) research done by Google of what is needed to build performanent teams, Psychological Safety means to be safe to feel uncomfortable. 
+Basis for all my actions, drivers and asks is ["Psychological Safety"](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://psychsafety.co.uk/googles-project-aristotle/) research done by Google of what is needed to build performanent teams, Psychological Safety means to be safe to feel uncomfortable. 
 
 On top of above foundation, I like to breakdown my leadership into the following 3 pillars that are either equally or not propertional, based on the business needs, distributed:
 
@@ -54,7 +54,7 @@ Both documents are great ways to describe yourself, let others know about your o
 
 * About me [deck](https://docs.google.com/presentation/d/19ScYsmCkc5wcxO1mNtk71FCGL9bNRIjWdhLiIzgr4kY/edit?usp=sharing)
 * Barbara's User [manual](https://github.com/bbinto/working-with-bb/blob/main/Barbara's%20User%20Manual.md)
-* User Manual [template](https://github.com/bbinto/working-with-bb/blob/main/Templae%20%5BName%5D%20-%20User%20Manual.md)
+* User Manual [template](https://github.com/bbinto/working-with-bb/blob/main/templates/Templae%20%5BName%5D%20-%20User%20Manual.md)
 
 
 #### 1:1 Meetings
@@ -67,8 +67,13 @@ In addition, a [question/project tracker](https://docs.google.com/spreadsheets/d
 #### Team Meetings
 Equally important to 1-1 meetings are team meetings. They can be scheduled weekly, bi-weekly or monthly pending on the size of my direct reports, the growth of the company and the maturity. The goal of these meetings is to form and build a high performanent team that can trust and support each other. This includes getting to know each other beyond work, team building activities, alignment on how to be successful, sharing of failures and wins so everyone can help and learn. 
 
-#### "No device" Meetings
-In general, I trust and believe people have good attention to stay connected to the topic of the meeting they are in. I also know though that things can distract us = slack and phones. I will ask you, at times, for specific meetings to not look at your other devices. It's for the broader good and it's respectful to give your co-workers or manager the attention and focus they deserve. Don't argue with me on that, if you are/get distracted, drop or don't join the meeting. 
+#### "No device" Meetings & Respect
+In general, I trust and believe people have good attention to stay connected to the topic of the meeting they are in. I also know though that things can distract us = slack and phones. I will ask you, at times, for specific meetings to not look at your other devices. It's for the broader good and it's respectful to give your co-workers or manager the attention and focus they deserve. Don't argue with me on that, if you are/get distracted, drop or don't join the meeting.
+
+Meetings I sit in or run will always focus on empathy and respect, and outcomes. My goal is to support, remind and interrupt if needed if any of those are not followed. I like the respect quote below from the Crucial Conversations book:
+
+“Respect is like air. As long as it's present, nobody thinks about it. But if you take it away, it's all that people can think about. The instant people perceive disrespect in a conversation, the interaction is no longer about the original purpose—it is now about defending dignity.”
+― Ron McMillan, Crucial Conversations: Tools for Talking When Stakes are High
 
 ## 2. People
 
@@ -154,6 +159,6 @@ The following artifacts, frameworks and operations all are preferred by me when 
 
 ## Closing
 
-This is an ambitious, ever evolving document, rather snapshot, of how I like to work as a leader, empowering teams to build the best products while being the most motivated possible with the most empathic and honest relationships amongst their peers.
+As this document is titled, it's my operating system. Like any good software or OS, it will need updates, fixes and [upgrades](https://www.amazon.ca/gp/product/0992944562/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) etc. Therefore, this is an ambitious, ever evolving version of a document on how I like to work as a leader, empowering teams to build the best products while being the most motivated possible with the most empathic and honest relationships amongst their peers.
 
 If you have read until now, I assume you are interested in working with me, or collaborating or giving me feedback on above. I'm excited for any comment.
