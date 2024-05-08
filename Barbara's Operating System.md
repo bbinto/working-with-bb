@@ -143,21 +143,10 @@ This is extremely important to me and isn't been done often, make sure to review
 The following artifacts, frameworks and operations all are preferred by me when running product teams.
 (Please note some of the below documents can't be shared in templates form due to business insights and data)
 
-* OKRs, quarterly/rolled up to company OKRs, reviewed monthly, trackable daily (via dashboards)
+* OKRs, quarterly/rolled up to company OKRs, reviewed monthly, trackable daily (via dashboards). Aligned with the OKRs, teams work best when they have proper OKR dashboards available to them and their leaders. I will ask you/data team to provide them for each quarter, they will be input for our monthly chats.
 * Outcome driven roadmap, see my post [here](https://bbinto.medium.com/the-behavioural-and-relational-characteristics-of-successful-product-teams-94c4255bdb8) for some Miro inspiration and template
 * Structured operating model aligned to quartlery planning, inspired by ["The Cadence"](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
-* Ideas & Prioritization Exercises; it's very important to align with everyone on your team, including myself and upper management how input is being treated. There are many inputs we can use to build our quarter, roadmap, stratey and next few years for your team. General Inputs: Current OKRs, company strategy, NPS, CSAT, CX tickets, feature requests, current feature adoption dashboards, monthly product performance read-outs. Below some examples
-    [$40 Prio exercise](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=1559938549)
+* Ideas & Prioritization Exercises; it's very important to align with everyone on your team, including myself and upper management how input is being treated. There are many inputs we can use to build our quarter, roadmap, stratey and next few years for your team. General Inputs: Current OKRs, company strategy, NPS, CSAT, CX tickets, feature requests, current feature adoption dashboards, monthly product performance [read-outs](https://drive.google.com/file/d/1b4ITyBz35ij_iDnlUQBBdqCw1AkMWMeU/view?usp=sharing). Below some examples
+    * [$40 Prio exercise](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=1559938549)
     * Don't forget about bugs, tech debt etc; please make sure to allocated time, and if needed, use the sheet to prioritize ruthlesly [RICE](https://docs.google.com/spreadsheets/d/17_PnuXIKeUv2FDk2l-GaBv07d9bmG6FV/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true) for bugs
     * Throuhout the quarter/year, I ask you to be pro-active and show motivation for your product area, I invite you to constantly ask yourself; what needs to be changed, can be done better? How can we do things better?
-
-### Data & Impact, Input
-Aligned with the OKRs, teams work best when they have proper OKR dashboards available to them and their leaders.
-I will ask you/data team to provide them for each quarter, they will be input for our monthly chats.
-
-* Help improve data literacy [[see link to medium post]]
-* Monthly metrics read-out: https://drive.google.com/file/d/1b4ITyBz35ij_iDnlUQBBdqCw1AkMWMeU/view?usp=sharing
-* NPS
-* CSAT
-* Customer reviews/feedback
-* Dashboards
