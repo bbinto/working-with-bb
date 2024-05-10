@@ -1,1 +1,1 @@
-Please check out [this](https://docs.google.com/presentation/d/1vBXARbhhtGgXoWS7TPnhDRuscSAfWajd/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true) Google folder for more templates.
+Please check out [this](https://drive.google.com/drive/folders/1nx5HvtrpYfd-9KNzw4yGBLuw5kZmVsGm?usp=drive_link) Google folder for more templates.
