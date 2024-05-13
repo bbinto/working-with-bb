@@ -2,8 +2,8 @@
 
 The following list and notes aim to share with the reader how/why/when I operate as a product leader. It's like my own Operating System. It helps (you) understand what I consider good work, being efficient, providing safety and continuous and honest feedback.
 
-**My Foundation & Motivation: Psychological Safety (PS)**: 
-The basis for all my actions, drivers and asks is ["Psychological Safety"](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://psychsafety.co.uk/googles-project-aristotle/) research done by Google of what is needed to build performant teams, Psychological Safety means to be safe to feel uncomfortable. 
+**My Foundation & Motivation > Psychological Safety **: 
+The basis for all my actions, drivers and asks is [Psychological Safety](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://psychsafety.co.uk/googles-project-aristotle/) research done by Google of what is needed to build performant teams, Psychological Safety means to be safe to feel uncomfortable. 
 
 On top of the above foundation, I like to break my leadership into the following 3 pillars that are either equally or not proportional distributed depending on the company's current business needs:
 
@@ -119,12 +119,12 @@ Below is a screenshot of a slide I like to use to align teams on how to think an
 ![](https://github.com/bbinto/working-with-bb/blob/main/img/strategy-breakdown.png)
 
 ### Execution and Strategy
-While I know and believe a good strategy is pertinent path to keep everyone focused, motivated and in one common direction, what I have learned is that people love to advice on how/what to do to solve a problem but not all can and want to actually DO what they say. In case you want a former US president to further elaborate on this, have a quick look at this [video](https://www.linkedin.com/posts/barbarabermes_when-former-us-president-barack-obama-was-activity-7079049160699613186-hFOQ?utm_source=share&utm_medium=member_desktop) from Obama.
+While I know and believe a good strategy is a pertinent path to keep everyone focused, motivated and in one common direction, what I have learned is that people love to advice on how/what to do to solve a problem but not all can and want to actually DO what they say. In case you want a former US president to further elaborate on this, have a quick look at this [video](https://www.linkedin.com/posts/barbarabermes_when-former-us-president-barack-obama-was-activity-7079049160699613186-hFOQ?utm_source=share&utm_medium=member_desktop) from Obama.
  
 **"Just learn how to get stuff done."** 
 
-I highly recommend and refer a lot to Frank Slootman's ["Amp it up"](https://www.amazon.ca/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115) book that outlines similar concepts above.
-Strategy is highly correlated and measured by quarterly and yearly OKRs for me. I like to use outcome-driven roadmaps that level up to OKRS and the vision of the company, see [this](https://bbinto.medium.com/why-is-this-still-so-hard-data-literacy-in-modern-product-design-teams-36501cedab84) post for more details and templates.
+I highly recommend and refer a lot to Frank Slootman's [Amp it up](https://www.amazon.ca/Amp-Unlocking-Hypergrowth-Expectations-Intensity/dp/1119836115) book that outlines similar concepts above.
+Strategy is highly correlated and measured by quarterly and yearly OKRs for me. I like to use outcome-driven roadmaps that level up to OKRs and the vision of the company, see [this](https://bbinto.medium.com/why-is-this-still-so-hard-data-literacy-in-modern-product-design-teams-36501cedab84) post for more details and templates.
 
 ### Documents, Frameworks and Planning
 
@@ -136,6 +136,8 @@ Some high-level topics and ideas are below (not a full list and definitely the m
 
 **Kick-off**
 * Project Alignment Document (PAD), template [here](https://docs.google.com/document/d/1qfP3-mXilJ_TmUf3B654DdrNfgnZh2P1/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true), can be used for product reviews, concise to avoid going down too deep. Use the PAD to form a proper PRD and/or kick-off deck. 
+
+(The PAD is something I started in one of my previous roles after it was hard to get upper management to focus first on the main problem solution and not go into too much details, e.g. on the how/design decisions etc.)
 
 **Development**
 * Use Jira (or Linear) to track ALL work, use templates on how to write user stories, decide who owns breaking down the tickets, sizing them etc. The roles [document](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=2005876786) will help.
@@ -155,16 +157,16 @@ The following artifacts, frameworks and operations all are preferred by me when 
 
 * OKRs, quarterly/rolled up to company OKRs, reviewed monthly, trackable daily (via dashboards). Aligned with the OKRs, teams work best when they have proper OKR dashboards available to them and their leaders. I will ask you/the data team to provide them for each quarter, they will be input for our monthly chats.
 * Outcome driven roadmap, see my post [here](https://bbinto.medium.com/the-behavioural-and-relational-characteristics-of-successful-product-teams-94c4255bdb8) for some Miro inspiration and template.
-* Structured operating model aligned to quarterly planning, inspired by ["The Cadence"](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8).
+* Structured operating model aligned to quarterly planning, inspired by ["The Cadence"](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8). See this document/template for (an example)[https://docs.google.com/spreadsheets/d/13toWuWbRR6DLgkj23DEWt6SFVa3b35bW/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true].
 * Ideas & Prioritization Exercises; it's crucial to align with everyone on your team, including myself and upper management how input is being treated. There are many inputs we can use to build our quarter, roadmap, strategy and next few years for your team, e.g. general inputs: current OKRs, company strategy, NPS, CSAT, CX tickets, feature requests, current feature adoption dashboards, monthly product team performance read-outs. Below are some examples to help you collect and prioritize
     * [$40 Prio exercise](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=1559938549)
     * OKR draft/working [sheet](https://docs.google.com/spreadsheets/d/1SPPSsxhsUJUbiAdJfezXtOydVFYxwvqXiA_XriGvcaI/edit#gid=709501430), ideally with included RICE for everyone to see why/what/why not
     * Don't forget about bugs, tech debt etc; please make sure to allocate time, and if needed, use the sheet to prioritize ruthlessly [RICE](https://docs.google.com/spreadsheets/d/17_PnuXIKeUv2FDk2l-GaBv07d9bmG6FV/edit?usp=sharing&ouid=106870703922353692262&rtpof=true&sd=true) for bugs
     * Throughout the quarter/year, I ask you to be proactive and show motivation for your product area, I invite you to constantly ask yourself; what needs to be changed, and can be done better? How can we do things better?
 
-## Closing
+## Closing Notes
 
-As the document is titled, it's my operating system. Like any good software or OS, it will need updates, fixes and [upgrades](https://www.amazon.ca/gp/product/0992944562/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) etc. Therefore, this is an ambitious, ever-evolving version of a document on how I like to work as a leader, empowering teams to build the best products while being the most motivated possible with the most empathic and honest relationships amongst their peers.
+As the document is titled, it's my operating system. Like any good software or OS, it will need updates, fixes and [upgrades (great book)](https://www.amazon.ca/gp/product/0992944562/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) etc. Therefore, this is an ambitious, ever-evolving version of a document on how I like to work as a leader, empowering teams to build the best products while being the most motivated possible with the most empathic and honest relationships amongst their peers.
 
 If you have read until now, I assume you are interested in working with me, collaborating or giving me feedback on the above. I'm excited for any comment.
 
