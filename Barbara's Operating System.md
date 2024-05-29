@@ -3,7 +3,7 @@
 The following list and notes aim to share with the reader how/why/when I operate as a product leader. It's like my own Operating System. It helps (you) understand what I consider good work, being efficient, providing safety and continuous and honest feedback.
 
 **My Foundation & Motivation > Psychological Safety **: 
-The basis for all my actions, drivers and asks is [Psychological Safety](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://psychsafety.co.uk/googles-project-aristotle/) research done by Google of what is needed to build performant teams, Psychological Safety means to be safe to feel uncomfortable. 
+The basis for all my actions, drivers and asks is [Psychological Safety](https://twitter.com/AdamMGrant/status/1359145757266296838?s=20). Mostly known as one of the key outcomes during the [Aristotle](https://psychsafety.co.uk/googles-project-aristotle/) research done by Google of what is needed to build performant teams, Psychological Safety means to be safe to feel uncomfortable (and [good article](https://www.entrepreneur.com/leadership/how-to-create-psychological-safety-among-a-team/359288)) 
 
 On top of the above foundation, I like to break my leadership into the following 3 pillars that are either equally or not proportional distributed depending on the company's current business needs:
 
