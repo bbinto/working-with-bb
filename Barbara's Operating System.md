@@ -38,6 +38,8 @@ I've noticed over the years that it's difficult at times for more junior people 
 
 Be super aware of how to not overload your executive with information. They [hear](https://blog.staysaasy.com/p/dont-bring-me-problems-bring-me-solutions?utm_source=pocket_reader), see, respond to many small and big fires, help them understand quickly what is at stake: Apply the [billboard](https://www.linkedin.com/feed/update/urn:li:activity:7162791135776632832/) test, what can you say in the fewest amount of words to get people to stay attentive?
 
+Another great framework to stay on point is to use the Barbara Minto Framework, check out [this](https://www.heavybit.com/library/video/executive-communication/) video, or directly following [SCQA](https://managementconsulted.com/scqa-framework/#:~:text=Short%20for%20Situation%2C%20Complication%2C%20Question,logical%2C%20engaging%2C%20and%20persuasive.) (Situation, Complication, Question, Answer), or the [Pyramid Principle](https://strategyu.co/pyramid-principle-partone/). Extra useful would be if you created your own GPT to stress-test the posts you send to your executive (one of my ICs did that :)).
+
 ### Meetings
 #### Welcome / First Time Meeting
 
