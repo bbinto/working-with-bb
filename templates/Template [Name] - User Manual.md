@@ -1,4 +1,4 @@
-## [Name]] general user manual**
+## [Name] general user manual**
 
 **What did you want to be when you grew up?**
 
