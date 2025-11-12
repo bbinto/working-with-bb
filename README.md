@@ -8,5 +8,6 @@ Feel free to copy, re-use and even add additional learnings and findings via pul
 * [Templates](https://github.com/bbinto/working-with-bb/tree/main/templates) (including link to Google folder)
 
 
-
-
+## More about me
+* [LinkedIn](https://www.linkedin.com/in/barbarabermes/)
+* [Medium](https://medium.com/@bbinto)
