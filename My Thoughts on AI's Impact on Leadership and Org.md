@@ -9,7 +9,7 @@ Humans remain key, and more than ever, as leaders and managers, our job is to re
 
 ## Guiding AI principles and vision
 
-To build with uncompromising intent: Where human judgment and strategic context act as the compass for agentic execution — ensuring that our 10x increase in velocity is always directed toward the right problems.
+> To build with uncompromising intent: Where human judgment and strategic context act as the compass for agentic execution — ensuring that our 10x increase in velocity is always directed toward the right problems.
 
 ### 1. Direction Over Velocity
 Speed is a liability without clarity, i.e. recognize that AI can make it 10x easier to run in the wrong direction. Therefore, prioritize "Directional Integrity": do not start the engine until the destination is validated. Clarity of 'Why' must always outpace the speed of 'How'.
@@ -34,5 +34,5 @@ Respect the transformative power of the tools we use. Move fast, but never move 
 
 ---
 AI can be dangerous, never underestimate its power when not in the right hands.
-- [At the Pentagon, OpenAI is In and Anthropic Is Out] (https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html?showTranscript=1) "One of Dario’s favorite books, a book that he used to buy for all Anthropic employees, is called “The Making of The Atomic Bomb.” It’s a very long history of the Manhattan Project during World War II."
+- [At the Pentagon, OpenAI is In and Anthropic Is Out](https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html?showTranscript=1) "One of Dario’s favorite books, a book that he used to buy for all Anthropic employees, is called “The Making of The Atomic Bomb.” It’s a very long history of the Manhattan Project during World War II."
 
