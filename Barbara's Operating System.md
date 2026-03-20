@@ -13,7 +13,7 @@ On top of the above foundation, I like to break my leadership into the following
 
 ## 1. Process (including Norms & Principles)
 To build on top of psychological safety, team members must feel comfortable sharing any uncomfortable events and news without being punished for not following the group norms. To identify these events, teams need to understand and align on expectations.
-(My, our) Expectations are the basis to form and follow norms and principles. If we are all clear on expectations, we know what to commit to, how to build trust, and how/when to escalate concerns. The team, collectively will come up with norms and principles that each individual commits to adhere to. I specifically will remind my team constantly about what I expect so the individual understands what (good) performance looks like.
+(My, our) Expectations are the basis to form and follow norms and principles. If we are all clear on expectations, we know what to commit to, how to build [trust](https://www.linkedin.com/posts/adammgrant_friendliness-isnt-always-a-sign-of-trustworthiness-activity-7357453517223067649-L9PA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJTW4MB5H6we05onEc39A7XK7nigEB__d0), and how/when to escalate concerns. The team, collectively will come up with norms and principles that each individual commits to adhere to. I specifically will remind my team constantly about what I expect so the individual understands what (good) performance looks like.
 
 ### Communication & Documentation
 There is never too much communication or oversharing, period! It's **the way** when and how it's written; ideally, provide a tl;dr and a thread/link to more context if needed.
@@ -172,4 +172,7 @@ As the document is titled, it's my operating system. Like any good software or O
 
 If you have read until now, I assume you are interested in working with me, collaborating or giving me feedback on the above. I'm excited for any comment.
 
+## AI - now what?
+
+I started writing my thoughts on AI, leadership and product [here](https://github.com/bbinto/working-with-bb/blob/main/My%20Thoughts%20on%20AI's%20Impact%20on%20Leadership%20and%20Org.md)
 
