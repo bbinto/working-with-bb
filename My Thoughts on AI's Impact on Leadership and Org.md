@@ -32,3 +32,7 @@ Respect the transformative power of the tools we use. Move fast, but never move 
 
 
 
+---
+AI can be dangerous, never underestimate its power when not in the right hands.
+- [At the Pentagon, OpenAI is In and Anthropic Is Out] (https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html?showTranscript=1) "One of Dario’s favorite books, a book that he used to buy for all Anthropic employees, is called “The Making of The Atomic Bomb.” It’s a very long history of the Manhattan Project during World War II."
+- 
